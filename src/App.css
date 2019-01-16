@@ -1,0 +1,10 @@
+.App-header {
+  background-color: #222;
+  height: 100px;
+  color: white;
+  text-align: center;
+  background-image: url("../src/title.png");
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
